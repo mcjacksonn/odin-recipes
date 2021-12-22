@@ -1,1 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"
+    <Title>Recipes</Title>
+</head>
+<body>
+    <H1>Odin Recipes</H1>
+    <a> click me </a>
+</body>
 
+</html>
